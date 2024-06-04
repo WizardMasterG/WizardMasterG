@@ -59,8 +59,3 @@
   <img src="https://profile-counter.glitch.me/WizardMasterG/count.svg?"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/WizardMasterG/WizardMasterG/output/snake.svg" alt="Snake animation" />
-
-###
